@@ -54,8 +54,8 @@ Several skills and tools were utilized in the completion of this project:
 ### 1. Database Management (SQL Server):
 
 -  Restored databases from .bak files.
-  
-  ![sales table in sql](https://github.com/user-attachments/assets/d44a6c20-ef3c-42bc-a39b-4b556ce1771f)
+
+     ![sales table in sql](https://github.com/user-attachments/assets/d44a6c20-ef3c-42bc-a39b-4b556ce1771f)
 
 -   Managed database paths and settings during the restoration process.
 
@@ -106,7 +106,7 @@ The MacBook Pro Laptop was the highest-selling product, generating over $8M in s
 
 ### 4. Least-Selling Product:
 AAA Batteries (4-pack) was the lowest-selling product, generating only $92K in sales.
-Screenshot of Dashboard
+
 
 ## Recommendations
 

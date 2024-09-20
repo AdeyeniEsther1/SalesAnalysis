@@ -1,4 +1,4 @@
-# SALES ANALYSIS 2019
+# SALES ANALYSIS 2019 PROJECT
 
 ## Table of Contents
 
